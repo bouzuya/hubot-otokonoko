@@ -1,6 +1,6 @@
 {
   "name": "hubot-otokonoko",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that calls \"男の娘WebAPI\"",
   "main": "index.js",
   "scripts": {
